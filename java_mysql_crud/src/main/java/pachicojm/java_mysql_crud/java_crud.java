@@ -250,7 +250,6 @@ public class java_crud extends javax.swing.JFrame {
         jTable_display.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         jTable_display.setFocusable(false);
         jTable_display.setGridColor(new java.awt.Color(0, 175, 173));
-        jTable_display.setRowSelectionAllowed(true);
         jTable_display.setSelectionBackground(new java.awt.Color(0, 175, 173));
         jTable_display.setSelectionForeground(new java.awt.Color(220, 221, 223));
         jTable_display.setSelectionMode(javax.swing.ListSelectionModel.SINGLE_SELECTION);
